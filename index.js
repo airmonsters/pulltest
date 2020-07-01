@@ -1,2 +1,3 @@
 let num = 123;
-console.log(num);
+let num2 = 234;
+console.log(num2);
